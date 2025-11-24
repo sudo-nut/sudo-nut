@@ -1,15 +1,16 @@
 <!-- Dark Mode Inspired GitHub Profile README -->
 
 <h1 align="center" style="color:#E5E5E5;">🌑 Musje</h1>
-<h3 align="center" style="color:#A0A0A0;">Student Developer • Backend Learner • Tech Explorer</h3>
+<h3 align="center" style="color:#A0A0A0;">Software Developer (Full-Time) • IT Student (Part-Time)</h3>
 
 ---
 
 ## 🧩 About Me
-- 🎓 IT student focusing on **backend development** and **software engineering**  
-- 🔥 Working with **Java**, **Spring Boot**, **Angular**, **Ionic**, and **SQL**  
-- 📚 Learning **data engineering**, cloud fundamentals, and advanced API design  
-- 🛠 Always building projects to sharpen technical skills  
+- 💼 Full-time **Software Developer** working with real production systems  
+- 🎓 Part-time **IT student**, continually improving academic + technical knowledge  
+- 🔥 Experienced with **Java**, **Spring Boot**, **Angular**, **Ionic**, **SQL**, and integrations  
+- 🧪 Hands-on in enterprise features: REST APIs, database operations, AOP, file uploads, PDF generation  
+- 📚 Actively learning **data engineering**, scalable backend design, and cloud fundamentals  
 
 ---
 
@@ -25,19 +26,19 @@
 
 ---
 
-## 🧠 What I'm Learning
-- Scalable backend architecture  
-- Data pipelines & engineering basics  
-- Clean code & documentation  
-- Cloud fundamentals (AWS/GCP/Azure)
+## 🧠 Current Focus
+- Building scalable backend systems  
+- Improving cloud knowledge (AWS/GCP/Azure basics)  
+- Developing cleaner architecture & documentation  
+- Learning data engineering fundamentals  
 
 ---
 
-## 🎯 Goals
-- Develop industry-level backend skills  
-- Contribute to open-source  
-- Build a strong GitHub portfolio  
-- Apply modern development best practices  
+## 🎯 Professional Goals
+- Strengthen backend engineering expertise  
+- Contribute to open-source projects  
+- Build a strong portfolio combining work + study projects  
+- Stay aligned with modern software industry standards  
 
 ---
 
