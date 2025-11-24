@@ -42,8 +42,8 @@
 ---
 
 ## 📫 Contact
-- GitHub: **your-username**  
-- Email: **your-email**
+- GitHub: **sudo-nut**  
+- Email: **mmusmit@gmail.com**
 
 ---
 
